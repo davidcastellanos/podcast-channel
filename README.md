@@ -1,5 +1,7 @@
 # PodCast Channel
 
+### Get to know the UI-Kit with the project request: [UI Kit](https://github.com/davidcastellanos/podcast-channel/blob/master/landingUI_desktop_mobile_kit) - Conocer el UI-Kit con la solicitud del proyecto: [UI Kit](https://github.com/davidcastellanos/podcast-channel/blob/master/landingUI_desktop_mobile_kit)
+
 ## Project components
 
 Below you can find the elements that make up the podcast project, the stack used is CSS, HTML, CDN's like Font Awesome and Google Fonts:
@@ -32,6 +34,10 @@ A continuación podrá encontrar lo elementos que componen el proyecto de podcas
 ## Project view - Responsive version / Vista del proyecto - Version Responsiva
 
 ![Podcast Responsive Version](https://github.com/davidcastellanos/podcast-channel/blob/master/readme_files/podcast_responsiveView_.png)
+
+
+
+
 
 
 ### To visit the website live, visit: [Podcast Channel](https://davidcastellanos.github.io/) - Para visitar el sitio web en vivo, visite: [Podcast Channel](https://davidcastellanos.github.io/)
